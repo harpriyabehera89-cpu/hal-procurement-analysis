@@ -1,8 +1,8 @@
-# 🛩️ HAL Procurement Analysis
+# 🛩️ HAL Procurement Analysis | Excel & IBM SPSS
 
 ## 📌 Project Overview
 
-This project presents a comprehensive analysis of the procurement process at Hindustan Aeronautics Limited (HAL). The study examines procurement efficiency, supplier performance, and the impact of credit terms using statistical analysis and business research techniques. The objective is to identify key procurement challenges and recommend data-driven strategies to improve operational performance.
+This project presents a procurement analysis of Hindustan Aeronautics Limited (HAL), focusing on procurement efficiency, supplier performance, and the impact of credit terms. The study applies statistical analysis and business research techniques to evaluate procurement practices and provide recommendations for improving operational performance.
 
 ## 🎯 Business Objective
 
@@ -12,7 +12,7 @@ This project presents a comprehensive analysis of the procurement process at Hin
 - Perform statistical analysis using IBM SPSS.
 - Recommend strategies to improve procurement performance.
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - IBM SPSS
@@ -20,67 +20,55 @@ This project presents a comprehensive analysis of the procurement process at Hin
 - Statistical Analysis
 - Business Research
 
-## 📈 Project Features
+## 📊 Project Features
 
-- Company Overview
-- Products & Services Analysis
+- Company Analysis
+- Procurement Process Study
 - McKinsey 7S Framework
 - Research Methodology
 - Questionnaire Analysis
 - Correlation Analysis
 - Regression Analysis
 - Hypothesis Testing
-- Business Findings
-- Recommendations
-## 📸 Project Highlights
+- Business Recommendations
 
-### 🏢 HAL Company Overview
+## 📈 Statistical Techniques Used
 
-![Company Overview](images/hal-company-overview.png)
+- Descriptive Statistics
+- Correlation Analysis
+- Regression Analysis
+- Hypothesis Testing
 
-### ✈️ HAL Products & Services
-
-![Products & Services](images/hal-products-services.png)
-
-### 🛩️ HAL Tejas Aircraft
-
-![Tejas Aircraft](images/tejas-aircraft.png)
-
-### 🚁 HAL Dhruv Helicopter
-
-![Dhruv Helicopter](images/dhruv-helicopter.png)
-
-### 📊 McKinsey 7S Framework
-
-![McKinsey Framework](images/mckinsey-7s-framework.png)
-
-### 📋 Research Methodology
-
-![Research Methodology](images/research-methodology.png)
-
-### 📈 Correlation Analysis
-
-![Correlation Analysis](images/correlation-analysis.png)
-### 📉 Regression Analysis
-
-![Regression Analysis](images/regression-analysis.png)
 
 ## 💡 Key Insights
 
-- Evaluated procurement efficiency and supplier performance at HAL.
-- Applied statistical techniques to analyze procurement-related factors.
-- Identified relationships between procurement practices and operational performance.
-- Developed recommendations to improve procurement decision-making.
-- Demonstrated the use of Excel and IBM SPSS for business research and analytics.
+- Analyzed procurement efficiency and supplier performance.
+- Evaluated the impact of credit terms on procurement decisions.
+- Applied statistical techniques using IBM SPSS to interpret research data.
+- Developed recommendations to improve procurement practices and operational efficiency.
+
 
 ## 📂 Repository Contents
 
-- HAL Procurement Analysis Report (PDF)
-- Project Images
-- Research Documentation
+```text
+📄 HAL_Procurement_Analysis.pdf
+📄 HAL_DATASET_2020_2025.xlsx
+📄 README.md
+
+``
+## 🚀 Skills Demonstrated
+
+- Procurement Analysis
+- Business Research
+- Statistical Analysis
+- Data Interpretation
+- Microsoft Excel
+- IBM SPSS
+- Business Reporting
+- Analytical Thinking
 
 ## 👩‍💻 Author
 
 **Harpriya Behera**
 
-MBA (Finance & Business Analytics)
+MBA – Finance & Business Analytics
