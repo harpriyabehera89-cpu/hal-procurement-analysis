@@ -1,5 +1,7 @@
 # 🛩️ HAL Procurement Analysis | Excel & IBM SPSS
 
+[Hero Banner]
+
 ## 📌 Project Overview
 
 This project presents a procurement analysis of Hindustan Aeronautics Limited (HAL), focusing on procurement efficiency, supplier performance, and the impact of credit terms. The study applies statistical analysis and business research techniques to evaluate procurement practices and provide recommendations for improving operational performance.
