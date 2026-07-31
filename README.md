@@ -4,6 +4,8 @@
 
 This project presents a procurement analysis of Hindustan Aeronautics Limited (HAL), focusing on procurement efficiency, supplier performance, and the impact of credit terms. The study applies statistical analysis and business research techniques to evaluate procurement practices and provide recommendations for improving operational performance.
 
+---
+
 ## 🎯 Business Objective
 
 - Analyze HAL's procurement process.
@@ -12,6 +14,8 @@ This project presents a procurement analysis of Hindustan Aeronautics Limited (H
 - Perform statistical analysis using IBM SPSS.
 - Recommend strategies to improve procurement performance.
 
+---
+
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
@@ -19,6 +23,8 @@ This project presents a procurement analysis of Hindustan Aeronautics Limited (H
 - Microsoft Word
 - Statistical Analysis
 - Business Research
+
+---
 
 ## 📊 Project Features
 
@@ -32,6 +38,8 @@ This project presents a procurement analysis of Hindustan Aeronautics Limited (H
 - Hypothesis Testing
 - Business Recommendations
 
+---
+
 ## 📈 Statistical Techniques Used
 
 - Descriptive Statistics
@@ -39,6 +47,7 @@ This project presents a procurement analysis of Hindustan Aeronautics Limited (H
 - Regression Analysis
 - Hypothesis Testing
 
+---
 
 ## 💡 Key Insights
 
@@ -47,6 +56,7 @@ This project presents a procurement analysis of Hindustan Aeronautics Limited (H
 - Applied statistical techniques using IBM SPSS to interpret research data.
 - Developed recommendations to improve procurement practices and operational efficiency.
 
+---
 
 ## 📂 Repository Contents
 
@@ -54,8 +64,10 @@ This project presents a procurement analysis of Hindustan Aeronautics Limited (H
 📄 HAL_Procurement_Analysis.pdf
 📄 HAL_DATASET_2020_2025.xlsx
 📄 README.md
+```
 
-``
+---
+
 ## 🚀 Skills Demonstrated
 
 - Procurement Analysis
@@ -66,6 +78,8 @@ This project presents a procurement analysis of Hindustan Aeronautics Limited (H
 - IBM SPSS
 - Business Reporting
 - Analytical Thinking
+
+---
 
 ## 👩‍💻 Author
 
