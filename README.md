@@ -1,6 +1,6 @@
 # 🛩️ HAL Procurement Analysis | Excel & IBM SPSS
 <p align="center">
-  <img src="images/hero-banner.png" alt="HAL Procurement Analysis Banner" width="100%">
+  <img src="Hero%20Banner.png" alt="HAL Procurement Analysis Banner" width="100%">
 </p>
 ## 📌 Project Overview
 
